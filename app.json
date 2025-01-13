@@ -10,10 +10,10 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "+923429333840;opaksfire"
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "Wazgar",
       "required": true,
       "value": "FIRE MD"
     },
